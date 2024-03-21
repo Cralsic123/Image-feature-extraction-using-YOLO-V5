@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>gsun_f74cefa076c4ea8b86412efb5905f1ab_jpg.rf.1e5d97356247bfb1290ec9b069cdef09.jpg</filename>
+	<path>gsun_f74cefa076c4ea8b86412efb5905f1ab_jpg.rf.1e5d97356247bfb1290ec9b069cdef09.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Abbey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2</xmin>
+			<xmax>620</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
